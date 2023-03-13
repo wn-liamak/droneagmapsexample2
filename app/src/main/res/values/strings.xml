@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DroneAGMapsExample2</string>
+
+    <string name="clear">Clear</string>
+    <string name="polygon_add_points">Touch the map to add points and draw a polygon</string>
+    <string name="polygon_add_one_more_point">Add one more point to draw a polygon</string>
+    <string name="polygon_status_format">Points: %1$d\nArea: %2$s KM</string>
+</resources>
